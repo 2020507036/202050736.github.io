@@ -35,11 +35,6 @@
 Yağlar ve çikolata benmari usulü ile eritilir
 
 
-**_Soğuk kahve ile tüketilmesi önerilir._**
-
-**_Afiyet Olsun._**
-
-
 Tüm kuru malzemeler karıştırılır ve soğutulan erimiş harca yumurta ile beraber karıştırılır
 
 
@@ -48,4 +43,8 @@ Harc yağlı kağıt serili kare bir tepsiye dökülür ve üzerine bisküviler 
 
 180 derecede 15 dakika pişirilir.
 
+
+**_Soğuk kahve ile tüketilmesi önerilir._**
+
+**_Afiyet Olsun._**
 
