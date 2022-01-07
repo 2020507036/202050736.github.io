@@ -1,123 +1,51 @@
----
-layout: default
----
+![Browni](https://cdn.shopify.com/s/files/1/1259/6441/files/gercek-browni-tarifi-oreo.jpg?v=1595793590)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Oreolu Browni Tarifi
 
-[Link to another page](./another-page.html).
+## Malzemeler
 
-There should be whitespace between paragraphs.
+### Soğuk Malzemeler
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* 2 adet büyük boy yumurta ve 1 adet yumurta sarısı
 
-# Header 1
+### Tatlandırıcı ve Baharat
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* 3/4 bardak un
+* 1/2 bardak kakao
+* 1 1/2 bardak granül şeker
+* 1/2 çay k. tuz
+* 3/4 fincan çikolata damlaları
+* 2 çay k. vanilya
 
-## Header 2
+### Yağlar
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* 3 yemek k.sıvıyağ(35 gram.)
 
-### Header 3
+### Sütlü Malzemeler
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* 3/4 yemek k. tuzsuz tereyağı
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Üzeri İçin
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* 14 adet oreo bisküvisi
 
 
-### Definition lists can be used with HTML syntax.
+## Yapılışı
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Yağlar ve çikolata benmari usulü ile eritilir
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+**_Soğuk kahve ile tüketilmesi önerilir._**
+
+**_Afiyet Olsun._**
+
+
+Tüm kuru malzemeler karıştırılır ve soğutulan erimiş harca yumurta ile beraber karıştırılır
+
+
+Harc yağlı kağıt serili kare bir tepsiye dökülür ve üzerine bisküviler yerleştirilir
+
+
+180 derecede 15 dakika pişirilir.
+
+
